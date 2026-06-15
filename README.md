@@ -2,7 +2,7 @@
 
 # Hi, I'm Ryan Mihalics-Shaw 👋
 
-I am a cybersecurity student and emerging IT support and security professional building hands-on skills in SOC analysis, Python log analysis, networking, Linux, and threat detection.
+I am a cybersecurity student and emerging IT and cybersecurity professional building hands-on skills in SOC analysis, Python log analysis, networking, Linux, and threat detection.
 
 My current focus is on developing practical, job-ready skills for IT support, SOC operations, alert triage, log analysis, and blue-team security work.
 
@@ -14,7 +14,7 @@ I am currently building toward roles such as:
 * Help Desk Technician
 * Technical Support Specialist
 * NOC Technician
-* SOC Analyst Tier 1
+* Tier 1 SOC Analyst
 * Security Support Analyst
 
 ## Technical Skills
