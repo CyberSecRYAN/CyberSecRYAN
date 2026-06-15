@@ -1,6 +1,6 @@
 # Hi, I'm Ryan Mihalics-Shaw 👋
 
-I am a cybersecurity student and emerging IT/security professional building hands-on skills in SOC analysis, IT support, log analysis, networking, Linux, Python, and threat detection.
+I am a cybersecurity student and emerging IT support and security professional building hands-on skills in SOC analysis, Python log analysis, networking, Linux, and threat detection.
 
 ## Career Focus
 
